@@ -6,5 +6,7 @@ The game utilizes a Particle System and UI components like Health Slider and Sco
 
 # Itch.io Link:- https://hemal-b.itch.io/laser-defender
 
+# Game Screenshot:-
+
 ![LaserDefender](https://github.com/hemalb12/Laser-Defender/assets/60689313/7d25e532-8832-4436-aee6-eb742ef189e1)
 
