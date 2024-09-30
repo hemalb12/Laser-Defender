@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class CameraShake : MonoBehaviour
 {
-    [SerializeField] float shakeDuration = 1f;
-    [SerializeField] float shakeMagnitude = 0.5f;
+    [SerializeField] float shakeDuration = 0.5f;
+    [SerializeField] float shakeMagnitude = 0.2f;
 
     Vector3 initialPosition;
 
